@@ -1,2 +1,3 @@
 *.pkl
 .env
+VK_API/vk_config.v2.json
